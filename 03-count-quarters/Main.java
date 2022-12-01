@@ -3,17 +3,11 @@ public class Main {
   System.out.println(countQuarters(64));
 }
 
-
-  
-public static int countQuarters(int cents) {
-  
-    String str = "";
-    str += cents;
-  String value = str.substring(Math.abs(str.length()-2));
-  if (str.lenght() == 1) {
-    return 0;
-  }
-  return Integer.parseInt(value)/25;
-
-  }
+public static int countQuarters(int a) {
+  
+     String cents = "" + a;
+  cents = cents.substring(Math.abs(cents.length()-2));
+  return Integer.parseInt(cents)/25;
+}
+ 
 }
