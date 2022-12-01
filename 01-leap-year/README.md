@@ -9,7 +9,7 @@
       } // end inner if statement
    } // end outer if statement
   ```
-  * **YOUR WRITING HERE**
+  * if (year % 4 == 0 && year % 100 != 0) {
 
 
 2. Label each as either correct or incorrect syntax. If incorrect, rewrite below:
@@ -19,19 +19,19 @@
 
   * if [x == 10] {
 
-    * **YOUR WRITING HERE**
+    * Correct
 
   * if x = 10 then {
 
-    * **YOUR WRITING HERE**
+    * Incorrect
 
   * if (x equals 42) {
 
-    * **YOUR WRITING HERE**
+    * Incorrect
 
   * if (x => y) {
 
-    * **YOUR WRITING HERE**
+    * Correct
 
 
 3. Fix the error in the code below:
@@ -45,4 +45,5 @@
   }
   ```
 
-  * **YOUR WRITING HERE**
+  * line 43:
+  * if (name.equals("blue") {
