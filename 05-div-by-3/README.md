@@ -6,4 +6,5 @@ Outline an algorithm to determine whether or not a number is prime.
 Think of the following method header:
 `public static boolean isPrime(int num)`
 
-  * **YOUR WRITING HERE**
+  * if a number is not divisible by all the numbers to 10 except 1 AND itself ------> return true
+  * else -----> return false ( if it at least divisible by any number except 1 and itself )
