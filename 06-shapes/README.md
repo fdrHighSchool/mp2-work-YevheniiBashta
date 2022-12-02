@@ -7,7 +7,8 @@
 000111222333444555666777888999
 000111222333444555666777888999
 ```
-  * **YOUR WRITING HERE**
+  * Creating 3 "for" loops. One for amount of each number is printed in a row, another one is for changing a number from 0-9, and the last one for rows to be extra printed.
+ 
 
 
 2. Write a plan for the following output:
