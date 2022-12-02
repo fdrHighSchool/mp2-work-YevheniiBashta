@@ -21,4 +21,4 @@
 | F  | F  |    F     |      T       | T  | T  |    T     |
 
 3. What does DeMorgan's state and how did you prove it for the case above?
-  * **YOUR WRITING HERE**
+  * It says that if the statement A or B is true, it can only be false if both A and B is gonna fail to be true. 
