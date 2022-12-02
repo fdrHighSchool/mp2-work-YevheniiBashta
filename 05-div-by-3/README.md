@@ -8,3 +8,4 @@ Think of the following method header:
 
   * if a number is not divisible by all the numbers to 10 except 1 AND itself ------> return true
   * else -----> return false ( if it at least divisible by one number except 1 and itself )
+  * Using for loop we can make a number to get divided by each number from 1 to 10 with ++. 
