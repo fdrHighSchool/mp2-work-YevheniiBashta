@@ -10,7 +10,9 @@
 
 
 2. Discuss how you would make sure 100 is not misrepresented as an A-.
-  * Else if grade is divisible by 100, print A+
+  * if number is divisible by 10 -> 
+  *     if grade is divisible by 100 -> add + to the grade
+  * else print grade without adding + or -
 
 
 3. Discuss how you would make sure grades that are an F are not mislabeled as F- or F+ (eg: 49 -> F+ and 52 -> F-)
